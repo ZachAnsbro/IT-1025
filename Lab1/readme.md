@@ -5,6 +5,7 @@ The goal of Lab 1 was to become familiar with the class structure, introdue us t
 
 ## Information System Components
 Hardware: Computers 
+
 Software: Operating systems such as Windows
 Data: A phone number or zip code
 People: Developers and systems analysts

@@ -1,14 +1,17 @@
 ## Your Name / Date
 Zachary Ansbro 9/4/21
 ## Executive Summary
-The goal of Lab 1 was to become familiar with the class structure, introdue us to Github, use the snipping tool for a screen capture, and read about information systems and their components. Github allows you to create a repository where you can add or edit a file with the ability to collaborate with other users. Using the snipping tool is something I am familiar with using in previous classes and other applications to take screenshots. Information systems and their components have evolved tremendously over the last 70 years. It is fascinating the effect this has had on businesses and organizations allowing them to connect globally and create solutions for a variety of issues. 
+The goal of Lab 1 was to become familiar with the class structure, introduce us to Github, use the snipping tool for a screen capture, and read about information systems and their components. Github allows you to create a repository where you can add or edit a file with the ability to collaborate with other users. Using the snipping tool is something I am familiar with using in previous classes and other applications to take screenshots. Information systems and their components have evolved tremendously over the last 70 years. It is fascinating the effect this has had on businesses and organizations allowing them to connect globally and create solutions for a variety of issues. 
 
 ## Information System Components
 Hardware: Computers 
 
 Software: Operating systems such as Windows
+
 Data: A phone number or zip code
+
 People: Developers and systems analysts
+
 Processes: Business process re-engineering
 
 ## GitHub

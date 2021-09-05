@@ -16,7 +16,7 @@ Processes: Business process re-engineering
 
 ## GitHub
 ### Client - Server Architecture
-Client-server refers to a central computer acting as the server sending data to the clients connected over the network. Github is the server sending data to it's users, the client, allowing them to collaborate and create projects over the network. 
+Client-server architecture refers to a central computer acting as the server sending data to the clients connected over the network. Github is the server sending data to it's users, the client, allowing them to collaborate and create projects over the network. 
 ### Cloud Computing
 Cloud computing is the mobile access of data and storage over the internet from a remote server. An example of this would be Dropbox, a storage and sharing system for files such as pictures. 
 ## Conclusion

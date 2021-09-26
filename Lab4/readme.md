@@ -4,7 +4,7 @@
 Include your executive summary here...
 
 ## Python IDLE
-
+The difference between the shell and the file editor is that the shell will run lines of code one at a time while the file editor can be used to run entire programs. The shell is good for experimenting and the file editor is good for running actual programs. 
 ## Code Examples
 ### Variable:
 ### Assignment statement:

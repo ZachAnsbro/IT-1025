@@ -1,4 +1,4 @@
-### Your Name / Date
+### Zach Ansbro / 10/3/21
 
 ### Executive Summary
 
@@ -7,7 +7,6 @@ Include your executive summary
 ### Part Part 1: Project Intent and Plan
 
 I am choosing to go with option two and plan to imlement code in to a program. I hope to create a simple application or game that has user input capability. 
-Describe the process you will take to become co-op ready (include dates of seminars you will plan if you elect Option 1 OR, a brief description of the project you plan to implement (programming, research etc.)
 
 ### Project Part 2:
 

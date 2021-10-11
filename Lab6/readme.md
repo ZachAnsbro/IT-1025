@@ -1,7 +1,7 @@
 ## Zach Ansbro / 10/8/21
 
 ## Executive Summary 
-Include your executive summary here...
+Through the course of this lab, we went through various topics regarding the internet and web pages. We covered internet architecture which went over attributes of different web pages and how they function using IP addresses. We also went over web programming with HTML and CSS to create a web page with different different features known as tags. The last thing we went over in this lab was file paths and URL's. I have used HTML and CSS in previous courses to create simple webpages similar to what we did in this lab, though it was a nice refresher to work with it again. Going into the lab, I had some knowledge on IP addresses and how they work but feel I understand a lot better how devices are able to connect to different networks. 
 
 ## Internet Architecture
 ### Internet Protocol
@@ -43,4 +43,4 @@ Default page: result of search
 Parameters: no file path provided
 Anchor: specific location on a page
 ## Conclusion
-Include your conclusion here...
+Overall, this lab taught me a lot of new things that I was not familiar with before and even gave me a good refresher of how to use HTML and CSS to form a webpage. When looking at internet architecture, it was interesting to be able to connect the section on hypertext transfer protocol back to the client-server model we had previously talked about. In doing so I felt that the things we are learning are sticking with me quite well, as anytime we look back on something we had from a past lesson I am able to remember it quite easily. It was fun to be able to create a small webpage and get to write a few lines of code, even if it was very simple!

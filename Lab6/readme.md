@@ -32,9 +32,15 @@ Attackers can create webpages that once opened, will install spyware that can st
 ### World Wide Web Consortium
 Tim Berners-Lee is the inventor of the World Wide Web and created the W3C in order to develop protocols and guidelines that promote the long-term growth of the Web. 
 ### HTML5 and CSS
+The purpose of how I used to HTML5 and CSS was to create a simple example of a webpage that briefly goes over a topic of our choice. In my example I chose to make the page about the Cleveland Browns and used the HTML5 heading, body, paragraph, and attributes tags along with the CSS style tag to create a color scheme throughout all of my HTML tags. 
 ### HTML and XML
-
+The difference between HTML and XML is that XML was created to carry data while HTML was created to display data. 
 ## Components of a URL
-
+Scheme: https
+Domain: www.amazon.com
+Top level Domain: .edu
+Default page: result of search
+Parameters: no file path provided
+Anchor: specific location on a page
 ## Conclusion
 Include your conclusion here...

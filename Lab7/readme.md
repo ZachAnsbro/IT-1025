@@ -19,9 +19,10 @@ The constructor method is used to automatically initialize data by running it as
 Classes are like blueprints that are defined to create objects. Objects use the blueprint created by the class to add data and methods. To instantiate an object from a class is essentially to create a copy of the class that will inherit all of the data and methods. 
 ## Object Oriented Concepts
 ### Instantiated Objects
+The instantiated objects of the shark class are all of the classes attributes and methods. 
 ### Inheritance
+Classes can be created out of other classes with the original class being referred to as the base class and the one being created out of it is called a derived class. When creating a derived class, it will inherit all of the attributes and behaviors of the base class and can use additional attributes. 
 ### Encapsulation and Abstraction
-
 ## Unified Modeling Language (UML)
 
 ## Conclusion

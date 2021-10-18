@@ -1,7 +1,7 @@
 ## Zachary Ansbro / 10/16/21
 
 ## Executive Summary 
-Include your executive summary here...
+Over the course of this lab, we learned various things from file compression to object oriented programming. File compression is something I was previously familiar with as it is an easy way to send or recieve a group of larger files. It was interesting to look at OOP and start to learn how programs are created with specific objectives in mind. This is something I have been looking forward to learning more about and is definitely something I would like to become more familiar with. 
 
 ## File Compression
 ### Purpose of File Compression
@@ -26,4 +26,4 @@ Classes can be created out of other classes with the original class being referr
 ## Unified Modeling Language (UML)
 
 ## Conclusion
-Include your conclusion here...
+Overall, this lab went over a lot of new things that I am eager to continue learning about. Other than file compression, this lab was mainly new concepts for me and was a bit hard to understand at some points but through reading and doing examples became much easier to understand. Learning how classes and objects work and are created was something that seemed difficult at first but made a lot more sense once I got to actually create both. They both seem very useful and I can see how class inheritance would be a huge tool to help you be more efficient in programming. 

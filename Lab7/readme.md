@@ -10,10 +10,13 @@ The purpose of file compression is to group multiple files in one compressed fil
 The compressed file size was almost half the size of the original file. If we were to do this with a .jpg file it would not compress nearly as much since that type of file is already compressed. 
 ## Object Oriented Programming (OOP) and the Shark Class
 ### Attributes:
+The shark class has two attributes, one for swimming and one for being awesome. 
 ### Methods:
+The methods of the shark class are defining the function and printing the result. 
 ### Constructor:
+The constructor method is used to automatically initialize data by running it as soon as the object of a class is set. 
 ### Class vs. Object
-
+Classes are like blueprints that are defined to create objects. Objects use the blueprint created by the class to add data and methods. To instantiate an object from a class is essentially to create a copy of the class that will inherit all of the data and methods. 
 ## Object Oriented Concepts
 ### Instantiated Objects
 ### Inheritance

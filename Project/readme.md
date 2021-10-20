@@ -6,7 +6,7 @@ Include your executive summary
 
 ### Part Part 1: Project Intent and Plan
 
-I am choosing to go with option two and plan to imlement code in to a program. I hope to create a simple application or game that has user input capability. 
+I am choosing to go with option two and plan to imlement code in to a program. I hope to create a simple application or webpage that has user input capability. 
 
 ### Project Part 2:
 
